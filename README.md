@@ -57,4 +57,6 @@ Effective data modeling structures raw data into an analytical framework, allowi
 • Fact Table: Sales Table, Inventory 
 • Dimension Tables: Products, Stores, and Dates
 
-![Image_alt]()
+![Image_alt](https://github.com/JoshuaGee-bit/PowerBi-Project/blob/c43bb5ebd2b670b4b0d33c55d342c3cdec1a92e3/Screenshot%202025-07-23%20195857.png)
+
+
