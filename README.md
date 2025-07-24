@@ -59,4 +59,60 @@ Effective data modeling structures raw data into an analytical framework, allowi
 
 ![Image_alt](https://github.com/JoshuaGee-bit/PowerBi-Project/blob/c43bb5ebd2b670b4b0d33c55d342c3cdec1a92e3/Screenshot%202025-07-23%20195857.png)
 
+## Key Insights 
 
+
+### Product Analysis 
+1. **Which product categories generate the highest profits?**
+- Toys are the most profitable, contributing $1.08M (26.89%) of total profits. 
+- Electronics follow closely with $1M (25%). 
+- Sports & Outdoor products generate the lowest profit at $500K.
+  
+2. **Are these profit trends location-dependent?** 
+- Electronics dominate in Airport and Commercial locations. 
+- Toys perform best in Downtown and Residential areas.
+  
+3. **Top Performing Products**
+Highest Profit-Generating Products: 
+1. Colorbuds - $835K 
+2. Action Figure - $348K 
+3. Lego Bricks - $298K 
+4. Deck of Cards - $252K 
+5. Glass Marbles - $190K
+
+4. **Most Sold Products:**
+1. Colorbuds - 104K units (23.5%) 
+2. Playdoh Can - 103K units (23.2%) 
+3. Barrel O’Slime - 91K units 
+4. Deck of Cards - 84K units 
+5. Magic Sand - 61K units
+
+![image_alt](
+   
+• Notably, Playdoh Can ranks high in sales volume but not in profitability. 
+Store & Location Analysis 
+Which locations generate the highest profits? 
+• Downtown stores lead with over $2M in profits. 
+• Airport stores yield the lowest profit at $378K. 
+Most Profitable Stores: 
+1. Maven Toys Ciudad de Mexico 2 - $170K 
+2. Maven Toys Guadalajara 3 - $121K 
+3. Maven Toys Ciudad de Mexico 1 - $111K 
+4. Maven Toys Monterrey 2 - $107K 
+5. Maven Toys Toluca - $105K 
+Least Profitable Stores: 
+• Maven Toys Cuernavaca 1 - $57K 
+• Maven Toys La Paz 1 - $57K 
+Seasonal Trends & Patterns 
+• Peak Sales & Profits: March–July 
+o Highest Sales: April (112K units) 
+o Highest Profit: March ($406K) 
+• Lowest Sales & Profits: October 
+o Sales: 48K units 
+o Profit: $179K 
+• Quarterly Trends: 
+o Q2 (April–June): Highest sales 
+o Q4 (October–December): Lowest sales 
+Yearly Trends: 
+• 2017: Sales peaked towards year-end. 
+• 2018: Stronger sales from February–July, with March leading.
