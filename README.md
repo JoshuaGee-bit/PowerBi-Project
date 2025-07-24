@@ -142,4 +142,5 @@ challenges.
 3. Enhance inventory management to avoid stock shortages or excesses, ensuring optimal 
 stock levels.
 
-
+### References
+[Maven Toy Store Dataset]
