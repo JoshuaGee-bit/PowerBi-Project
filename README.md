@@ -9,6 +9,15 @@ This analysis evaluates sales and inventory data from Maven Toy Store, a toy ret
 
 
 ## Table of Content
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Key Business Questions](#key-business-questions)
+- [Tools and Methodologies](#tools-and-methodologies)
+- [Data Processing](#data-processing)
+- [Data Modeling](#data-modeling)
+- [Key Insights](#key-insights)
+- [Summary & Recommendations](summary-and-recommendations)
+- [References](references)
 
 
 ## Objectives of the Analysis 
