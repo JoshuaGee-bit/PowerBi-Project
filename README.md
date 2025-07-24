@@ -102,9 +102,9 @@ Highest Profit-Generating Products:
 - Maven Toys Monterrey 2 - $107K 
 - Maven Toys Toluca - $105K 
 3. **Least Profitable Stores:**
-• Maven Toys Cuernavaca 1 - $57K 
-• Maven Toys La Paz 1 - $57K 
-Seasonal Trends & Patterns 
+- Maven Toys Cuernavaca 1 - $57K 
+- Maven Toys La Paz 1 - $57K 
+4. **Seasonal Trends & Patterns**
 • Peak Sales & Profits: March–July 
 o Highest Sales: April (112K units) 
 o Highest Profit: March ($406K) 
