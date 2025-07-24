@@ -104,16 +104,42 @@ Highest Profit-Generating Products:
 3. **Least Profitable Stores:**
 - Maven Toys Cuernavaca 1 - $57K 
 - Maven Toys La Paz 1 - $57K 
-4. **Seasonal Trends & Patterns**
-• Peak Sales & Profits: March–July 
-o Highest Sales: April (112K units) 
-o Highest Profit: March ($406K) 
-• Lowest Sales & Profits: October 
-o Sales: 48K units 
-o Profit: $179K 
-• Quarterly Trends: 
-o Q2 (April–June): Highest sales 
-o Q4 (October–December): Lowest sales 
-Yearly Trends: 
-• 2017: Sales peaked towards year-end. 
-• 2018: Stronger sales from February–July, with March leading.
+
+  ### Seasonal Trends & Patterns
+1. **Peak Sales & Profits:** March–July
+- Highest Sales: April (112K units) 
+- Highest Profit: March ($406K) 
+2. **Lowest Sales & Profits:** October 
+- Sales: 48K units 
+- Profit: $179K 
+3.  **Quarterly Trends:** 
+- Q2 (April–June): Highest sales 
+- Q4 (October–December): Lowest sales 
+4. **Yearly Trends:** 
+- 2017: Sales peaked towards year-end. 
+- 2018: Stronger sales from February–July, with March leading.
+
+### Inventory Analysis 
+**Current Inventory Value & Turnover:** 
+- Total Inventory Value: $300K 
+- Total Stock: 29,742 units 
+- Average Daily Sales: 1,709 units 
+- Estimated Inventory Duration: 15-17 days before restocking is required.
+
+  
+## Summary & Recommendations 
+### Summary of Key Findings: 
+1. Downtown stores are the most profitable. 
+2. Toys lead in profitability, followed by Electronics. 
+3. Sales dip in January, February, and October. 
+4. Electronics excel in Airport and Commercial locations, while Toys dominate Downtown 
+and Residential areas. 
+
+### Strategic Recommendations: 
+1. Expand investment in Downtown stores to capitalize on high profitability. 
+2. Investigate low sales in January and February to identify and mitigate potential market 
+challenges. 
+3. Enhance inventory management to avoid stock shortages or excesses, ensuring optimal 
+stock levels.
+
+
