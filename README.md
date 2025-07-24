@@ -74,33 +74,34 @@ Effective data modeling structures raw data into an analytical framework, allowi
   
 3. **Top Performing Products**
 Highest Profit-Generating Products: 
-1. Colorbuds - $835K 
-2. Action Figure - $348K 
-3. Lego Bricks - $298K 
-4. Deck of Cards - $252K 
-5. Glass Marbles - $190K
+- Colorbuds - $835K 
+- Action Figure - $348K 
+- Lego Bricks - $298K 
+- Deck of Cards - $252K 
+- Glass Marbles - $190K
 
 4. **Most Sold Products:**
-1. Colorbuds - 104K units (23.5%) 
-2. Playdoh Can - 103K units (23.2%) 
-3. Barrel O’Slime - 91K units 
-4. Deck of Cards - 84K units 
-5. Magic Sand - 61K units
+- Colorbuds - 104K units (23.5%)
+- Playdoh Can - 103K units (23.2%) 
+- Barrel O’Slime - 91K units 
+- Deck of Cards - 84K units 
+- Magic Sand - 61K units
 
-![image_alt](
+![image_alt](https://github.com/JoshuaGee-bit/PowerBi-Project/blob/f2ac1aff42bb03560d172a84c73c08acbf905394/Screenshot%202025-07-23%20195952.png)
    
-• Notably, Playdoh Can ranks high in sales volume but not in profitability. 
-Store & Location Analysis 
-Which locations generate the highest profits? 
-• Downtown stores lead with over $2M in profits. 
-• Airport stores yield the lowest profit at $378K. 
-Most Profitable Stores: 
-1. Maven Toys Ciudad de Mexico 2 - $170K 
-2. Maven Toys Guadalajara 3 - $121K 
-3. Maven Toys Ciudad de Mexico 1 - $111K 
-4. Maven Toys Monterrey 2 - $107K 
-5. Maven Toys Toluca - $105K 
-Least Profitable Stores: 
+**Notably, Playdoh Can ranks high in sales volume but not in profitability.**
+
+### Store & Location Analysis 
+1. **Which locations generate the highest profits?**
+- Downtown stores lead with over $2M in profits. 
+- Airport stores yield the lowest profit at $378K. 
+2. **Most Profitable Stores:** 
+- Maven Toys Ciudad de Mexico 2 - $170K 
+- Maven Toys Guadalajara 3 - $121K 
+- Maven Toys Ciudad de Mexico 1 - $111K 
+- Maven Toys Monterrey 2 - $107K 
+- Maven Toys Toluca - $105K 
+3. **Least Profitable Stores:**
 • Maven Toys Cuernavaca 1 - $57K 
 • Maven Toys La Paz 1 - $57K 
 Seasonal Trends & Patterns 
